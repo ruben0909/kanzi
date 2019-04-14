@@ -38,10 +38,6 @@ ViewAudioPlaylist (abrir/ir a/ver) (/la) playlist {AudioPlaylist}
 ViewAudioPlaylist (abrir/ir a/ver) (/la) {AudioPlaylist} lista de (canciones/musica/audio/reproduccion/playlist)
 ViewAudioPlaylistRecent (abrir/ir a/ver) (albums/canciones) recientes
 ViewAudioPlaylistRecent (abrir/ir a/ver) (musica/audio) reciente
-ViewAudioPlaylistRecent (abrir/ir a/ver) canciones añadidas recientemente
-ViewAudioPlaylistRecent (abrir/ir a/ver) albums añadidos recientemente
-ViewAudioPlaylistRecent (abrir/ir a/ver) musica añadida recientemente
-ViewAudioPlaylistRecent (abrir/ir a/ver) audio añadido recientemente
 ViewAudioPlaylistRecent (abrir/ir a/ver) musica nueva
 ViewAudioPlaylistRecent (abrir/ir a/ver) la ultima musica 
 ViewAudioPlaylistRecent (abrir/ir a/ver) musica nueva
@@ -56,21 +52,16 @@ ViewVideoPlaylist (abrir/ir a/ver) (/la) lista de (video/peliculas/videos) {Vide
 ViewVideoPlaylist (abrir/ir a/ver) (/la) playlist {VideoPlaylist}
 ViewMoviePlaylistRecent (abrir/ir a/ver) (/las) peliculas recientes
 ViewMoviePlaylistRecent (abrir/ir a/ver) (/los) videos recientes
-ViewMoviePlaylistRecent (abrir/ir a/ver) (/las) peliculas recientemente añadidas
-ViewMoviePlaylistRecent (abrir/ir a/ver) (/los) videos recientemente añadidos
 ViewMoviePlaylistRecent (abrir/ir a/ver) (/los) ultimos videos
 ViewMoviePlaylistRecent (abrir/ir a/ver) (/los) nuevos videos
 ViewMoviePlaylistRecent (abrir/ir a/ver) (/las) ultimas peliculas
 ViewMoviePlaylistRecent (abrir/ir a/ver) (/las) nuevas peliculas
 ViewEpisodePlaylistRecent (abrir/ir a/ver) (series/episodios) recientes
-ViewEpisodePlaylistRecent (abrir/ir a/ver)  series recientemente añadidas
-ViewEpisodePlaylistRecent (abrir/ir a/ver) episodios recientemente añadidos
 ViewEpisodePlaylistRecent (abrir/ir a/ver) (/las) ultimas series 
 ViewEpisodePlaylistRecent (abrir/ir a/ver) (/los) ultimos episodios
 ViewEpisodePlaylistRecent (abrir/ir a/ver) (/las) nuevas  series 
 ViewEpisodePlaylistRecent (abrir/ir a/ver) (/los) nuevos episodios
 ViewMusicVideoPlaylistRecent (abrir/ir a/ver) videoclips recientes
-ViewMusicVideoPlaylistRecent (abrir/ir a/ver) videoclips recientemente añadidos
 ViewMusicVideoPlaylistRecent (abrir/ir a/ver) (/los) ultimos videoclips 
 ViewMusicVideoPlaylistRecent (abrir/ir a/ver) (/los) nuevos videoclips 
 ViewPlaylist (abrir/ir a/ver) (/la) lista de reproduccion {AudioPlaylist}
@@ -162,7 +153,6 @@ ListenToAudioPlaylist (reproducir/escuchar) (/la) lista de (musica/reproduccion)
 ListenToAudioPlaylist escuchar {AudioPlaylist}
 
 ListenToAudioPlaylistRecent (reproducir/escuchar/barajar) recent (musica/audio) reciente
-ListenToAudioPlaylistRecent (reproducir/escuchar/barajar) recent (musica/audio) recientemente añadido
 ListenToAudioPlaylistRecent (reproducir/escuchar/barajar) la ultima musica
 ListenToAudioPlaylistRecent (reproducir/escuchar/barajar) la musica nueva
 ListenToAudioPlaylistRecent (reproducir/escuchar/barajar) las (ultimas/nuevas) canciones
