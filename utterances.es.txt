@@ -270,9 +270,9 @@ PlayerSeekSmallForward adelantar (/un poco) {ForwardDur}
 PlayerSeekBigForward (ir/saltar) (/mucho) (/hacia adelante/adelante) {ForwardDur}
 PlayerSeekBigForward adelantar (/mucho) {ForwardDur}
 PlayerSeekBackward (ir/saltar) (atrás/hacia atrás) {BackwardDur}
-PlayerSeekBackward (atrasar/volver/retroceder) {BackwardDur}
+PlayerSeekBackward (atrasar/volver/retroceder/rebobinar) {BackwardDur}
 PlayerSeekSmallBackward (ir/saltar) (atrás/hacia atrás)  (/un poco) {BackwardDur}
-PlayerSeekSmallBackward (atrasar/volver/retroceder)  (/un poco) {BackwardDur}
+PlayerSeekSmallBackward (atrasar/volver/retroceder/rebobinar)  (/un poco) {BackwardDur}
 PlayerSeekBigBackward (ir/saltar) (atrás/hacia atrás)  (/mucho) {BackwardDur}
 PlayerSeekBigBackward (ir/saltar) (atrás/hacia atrás)  (/mucho) {BackwardDur}
 
