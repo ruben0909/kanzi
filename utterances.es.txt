@@ -175,7 +175,7 @@ WatchRandomEpisode (reproducir/ver) un episodio (/aleatorio) de {Show}
 
 WatchRandomShow (reproducir/ver) una serie (/de {ShowGenre})
 
-WatchNextEpisode (reproducir/ver) (/el) (proximo/siguiente)) episodio de {Show}
+WatchNextEpisode (reproducir/ver) (/el) (proximo/siguiente) episodio de {Show}
 
 WatchLastShow continuar (/viendo/reproduciendo) (/la) (/ultima) serie
 
